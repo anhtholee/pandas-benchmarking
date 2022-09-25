@@ -1,0 +1,8 @@
+pandas==1.4.2
+numpy==1.20.3
+matplotlib==3.5.3
+line_profiler==3.5.1
+memory_profiler==0.60.0
+numexpr==2.8.3
+numba==0.56.2 
+cython==0.29.32
