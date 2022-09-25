@@ -1,6 +1,7 @@
 # pandas-benchmarking
-Benchmarking on common use cases in pandas
-Topics covered in the notebook
+Benchmarking on common use cases in pandas.
+
+Topics covered in the notebook 
 - Useful magic commands
  + time and timeit   
  + prun and lprun
